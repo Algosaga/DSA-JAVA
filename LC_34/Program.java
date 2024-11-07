@@ -1,3 +1,4 @@
+// NOTE :- You can refactor it according to your need my code is not usng main function becuase I was working with Leetcode thats why I don't really need to define something main.
 public class Program{
 	public static void main(String[] args){
 		
