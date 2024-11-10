@@ -14,7 +14,7 @@ public class Solution{
 	   int searchingInRight = Solution.binarySearchForAscending(pivotPoint+1, nums.length - 1, target, nums);
 	   
 	   if(searchingInLeft == -1 && searchingInRight == -1){
-		   return -1;
+		   return -1; 
 	   }
 	   else if(searchingInLeft != -1){
 		   return searchingInLeft;
