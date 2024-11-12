@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to Google Java Format JAR
-GOOGLE_JAVA_FORMAT_JAR="path/to/google-java-format-1.15.0-all-deps.jar"
+GOOGLE_JAVA_FORMAT_JAR="./tools/google-java-format-1.24.0-all-deps.jar"
 
 # Find all Java files and format them
 find . -name "*.java" | while read -r file; do
