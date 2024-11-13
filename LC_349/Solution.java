@@ -1,6 +1,7 @@
 // This solution is pretty Lengthy, time and space complexities are also bad but it is what it is. You can take a look at it and think how to solve it in a better way.
 
 import java.util.ArrayList;
+import java.util.Arrays;
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 		    ArrayList<Integer> numbers = new ArrayList<>();
